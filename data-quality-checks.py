@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-This is a script to conduct various data quality checks on data for the final project in ABE 65100
+This is a script to conduct various data quality checks on data for the final project in ABE 65100.
+    No data and gross error checks were deemed to be the most likely errors to occur with this dataset
     created by Justin Meyer
     last edited 2022-04-13
 """
-
+# import required modules
 import pandas as pd
 import numpy as np
 
